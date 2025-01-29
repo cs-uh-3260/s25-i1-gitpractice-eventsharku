@@ -8,3 +8,6 @@ This article explores how **Generative AI (Gen AI) is transforming automotive so
 
 What I found particularly interesting is how **AI is being integrated into critical safety systems, predictive maintenance, and autonomous driving features**. As vehicles become increasingly software-defined, leveraging AI can help automotive companies **optimize supply chains, enhance user experience, and enable more sophisticated mobility services**. The article highlights how major automotive players are **adopting AI-powered tools** to stay competitive in this evolving landscape.
 
+## Proof Reading
+Article checked for typos.
+
