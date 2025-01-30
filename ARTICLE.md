@@ -11,3 +11,7 @@ What I found particularly interesting is how **AI is being integrated into criti
 ## Proof Reading
 Article checked for typos.
 
+## MD Hasibul Kadir 
+
+##Comment 
+What I found most interesting about the article is how it clearly outlines the use of AI within the industry. It has boosted the growth of the automotive industry in many ways and it is fasccinating to see how AI has helped **fast track** the entire process.
